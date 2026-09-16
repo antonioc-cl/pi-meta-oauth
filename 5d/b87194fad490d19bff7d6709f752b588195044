@@ -1,0 +1,21 @@
+package.json
+  s_d8c3c1d30be2ac::t_e3444ba08d97cb 34-35,38-39
+tests/meta.test.ts
+  s_d8c3c1d30be2ac::t_152568d3a59a40 190,232,354,387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5db87194fad490d19bff7d6709f752b588195044",
+  "prompts": {},
+  "sessions": {
+    "s_d8c3c1d30be2ac": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0aa8c-60f0-764a-838e-83099d90e0cf",
+        "model": "deepseek-v4-flash-0731"
+      },
+      "human_author": "Antonio Correa <antonio.correa@gmail.com>"
+    }
+  }
+}
