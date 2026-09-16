@@ -1,0 +1,22 @@
+extensions/meta.ts
+  s_d8c3c1d30be2ac::t_1ae66265908200 623-627,629,633
+  s_d8c3c1d30be2ac::t_1be3daca740e51 628,630-632
+tests/meta-cache.test.ts
+  s_d8c3c1d30be2ac::t_8ee911522a946f 223-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "270540fb8ca68c4fdd5fb3b6368ef8565b5f8ed9",
+  "prompts": {},
+  "sessions": {
+    "s_d8c3c1d30be2ac": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0aa8c-60f0-764a-838e-83099d90e0cf",
+        "model": "deepseek-v4-flash-0731"
+      },
+      "human_author": "Antonio Correa <antonio.correa@gmail.com>"
+    }
+  }
+}
