@@ -1,0 +1,29 @@
+.gitignore
+  s_d8c3c1d30be2ac::t_c906b3f6343bc3 8
+sessions/2026-09-16_session-meta-oauth-pi085-fixes.md
+  s_c6eb79a4cae573::t_22020dbba3d52d 1-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "05a990dbe71537d53cdbb81eb5800483af3cf92d",
+  "prompts": {},
+  "sessions": {
+    "s_c6eb79a4cae573": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0a5ea-49e4-72dc-a567-597793a05c7c",
+        "model": "deepseek-v4-pro-0813"
+      },
+      "human_author": "Antonio Correa <antonio.correa@gmail.com>"
+    },
+    "s_d8c3c1d30be2ac": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0aa8c-60f0-764a-838e-83099d90e0cf",
+        "model": "deepseek-v4-flash-0731"
+      },
+      "human_author": "Antonio Correa <antonio.correa@gmail.com>"
+    }
+  }
+}
